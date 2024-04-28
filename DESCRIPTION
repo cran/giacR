@@ -1,6 +1,6 @@
 Package: giacR
 Title: Interface to the Computer Algebra System 'Giac'
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: c(
     person("Stéphane", "Laurent", , "laurent_step@outlook.fr", role = c("aut", "cre")),
     person("Renée", "De Graeve", role = "cph",
@@ -21,10 +21,10 @@ Encoding: UTF-8
 RoxygenNote: 7.2.3
 SystemRequirements: Chromium-based browser (Google Chrome, Brave, ...)
 NeedsCompilation: no
-Packaged: 2023-08-16 11:27:51 UTC; SDL96354
+Packaged: 2024-04-28 15:19:48 UTC; SDL96354
 Author: Stéphane Laurent [aut, cre],
   Renée De Graeve [cph] (Giac),
   Bernard Parisse [cph] (Giac)
 Maintainer: Stéphane Laurent <laurent_step@outlook.fr>
 Repository: CRAN
-Date/Publication: 2023-08-17 06:52:39 UTC
+Date/Publication: 2024-04-28 20:10:02 UTC
